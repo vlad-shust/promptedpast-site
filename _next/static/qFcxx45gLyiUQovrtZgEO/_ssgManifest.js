@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Fscene\u002F[slug]","\u002Fstudio-piece\u002F[id]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
